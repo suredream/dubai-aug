@@ -1,0 +1,7 @@
+shortcuts.sh
+data/
+sample_data/
+*.zip
+.config/
+Semantic*/
+*.png
